@@ -2,7 +2,7 @@ package gitbashdemo;
 
 import org.testng.annotations.Test;
 
-public class DemoTest2 {
+public class Demo2Test {
 
 	@Test
 	public void test1() {
