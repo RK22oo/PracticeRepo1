@@ -2,26 +2,26 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-10T13:02:04 IST" name="Suite" finished-at="2023-03-10T13:02:04 IST" duration-ms="78">
+  <suite started-at="2023-03-10T15:12:27 IST" name="Suite" finished-at="2023-03-10T15:12:27 IST" duration-ms="56">
     <groups>
     </groups>
-    <test started-at="2023-03-10T13:02:04 IST" name="Test" finished-at="2023-03-10T13:02:04 IST" duration-ms="78">
+    <test started-at="2023-03-10T15:12:27 IST" name="Test" finished-at="2023-03-10T15:12:27 IST" duration-ms="56">
       <class name="gitbashdemo.DemoTest">
-        <test-method signature="test1()[pri:0, instance:gitbashdemo.DemoTest@4c1909a3]" started-at="2023-03-10T13:02:04 IST" name="test1" finished-at="2023-03-10T13:02:04 IST" duration-ms="12" status="PASS">
+        <test-method signature="test1()[pri:0, instance:gitbashdemo.DemoTest@3e84448c]" started-at="2023-03-10T15:12:27 IST" name="test1" finished-at="2023-03-10T15:12:27 IST" duration-ms="8" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method signature="test2()[pri:0, instance:gitbashdemo.DemoTest@4c1909a3]" started-at="2023-03-10T13:02:04 IST" name="test2" finished-at="2023-03-10T13:02:04 IST" duration-ms="2" status="PASS">
+        <test-method signature="test2()[pri:0, instance:gitbashdemo.DemoTest@3e84448c]" started-at="2023-03-10T15:12:27 IST" name="test2" finished-at="2023-03-10T15:12:27 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
       </class> <!-- gitbashdemo.DemoTest -->
       <class name="gitbashdemo.DemoTest2">
-        <test-method signature="test1()[pri:0, instance:gitbashdemo.DemoTest2@771a660]" started-at="2023-03-10T13:02:04 IST" name="test1" finished-at="2023-03-10T13:02:04 IST" duration-ms="1" status="PASS">
+        <test-method signature="test1()[pri:0, instance:gitbashdemo.DemoTest2@53fdffa1]" started-at="2023-03-10T15:12:27 IST" name="test1" finished-at="2023-03-10T15:12:27 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method signature="test2()[pri:0, instance:gitbashdemo.DemoTest2@771a660]" started-at="2023-03-10T13:02:04 IST" name="test2" finished-at="2023-03-10T13:02:04 IST" duration-ms="2" status="PASS">
+        <test-method signature="test2()[pri:0, instance:gitbashdemo.DemoTest2@53fdffa1]" started-at="2023-03-10T15:12:27 IST" name="test2" finished-at="2023-03-10T15:12:27 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
